@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Task 1",
+		"description": "Complete feature A",
+		"duration": 3,
+		"status": "In Progress"
+	},
+	{
+		"name": "Task 2",
+		"description": "Bug fixing in module B",
+		"duration": 2,
+		"status": "To Do"
+	},
+	{
+		"name": "Task 3",
+		"description": "Write documentation",
+		"duration": 4,
+		"status": "Done"
+	},
+	{
+		"name": "Task 4",
+		"description": "Refactor codebase",
+		"duration": 5,
+		"status": "In Progress"
+	}
+]
